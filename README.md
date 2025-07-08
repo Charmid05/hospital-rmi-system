@@ -14,11 +14,8 @@ MetroCare Hospital is a distributed appointment booking system built using Java 
 •	Real-time Updates: Instant booking confirmations with unique appointment IDs
 
    # System Architecture
-┌─────────────────┐    RMI Registry     ┌─────────────────┐
-│   Client App    │ ◄──────────────────► │   Server App    │
-│  (Reception/    │      Port 1099      │  (Hospital      │
-│   Mobile)       │                     │   Backend)      │
-└─────────────────┘                     └─────────────────┘
+[image](https://github.com/user-attachments/assets/d3725652-9211-4b4c-b073-47b101036973)
+
 
 
    #   Project Structure
