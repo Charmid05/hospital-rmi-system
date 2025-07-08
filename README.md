@@ -20,19 +20,8 @@ MetroCare Hospital is a distributed appointment booking system built using Java 
 
    #   Project Structure
 
-HospitalRMISystem/
-├── src/
-│   ├── hospital/
-│   │   ├── interfaces/
-│   │   │   └── HospitalService.java      # Remote interface
-│   │   ├── server/
-│   │   │   ├── HospitalServiceImpl.java  # Service implementation
-│   │   │   └── HospitalServer.java       # Server startup
-│   │   └── client/
-│   │       └── HospitalClient.java       # Client application
-├── README.md
-└── docs/
-    └── user-guide.md
+[image](https://github.com/user-attachments/assets/3a7e418f-b20b-4113-8cd0-5f1a37a369cf)
+
 
    #     Prerequisites
 
